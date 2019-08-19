@@ -9,7 +9,7 @@
 ## Nhắc lại B-Tree
 
 <div align="center">
-	<img src="./img/btree.jpeg" >
+	<img src="./img/btree.jpeg" width="444">
 	<br/>
 	<span align="center"><i></i></span>
 	<br/>
@@ -109,7 +109,7 @@
 - Mô hình sử dụng ThreadPool và nonblocking server:
 
 <div align="center">
-	<img src="./img/kvdia.png" >
+	<img src="./img/kvdia.png"width="500" >
 	<br/>
 	<span align="center"><i></i></span>
 	<br/>
@@ -119,7 +119,7 @@
 - Chi tiết server dùng nonblocking và select() API.
 
 <div align="center">
-	<img src="./img/nonblocking.gif" >
+	<img src="./img/nonblocking.gif" width="333">
 	<br/>
 	<span align="center"><i></i></span>
 	<br/>
