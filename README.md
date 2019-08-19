@@ -109,7 +109,7 @@
 - Mô hình sử dụng ThreadPool và nonblocking server:
 
 <div align="center">
-	<img src="./img/kvsDiagram.png" >
+	<img src="./img/kvdia.png" >
 	<br/>
 	<span align="center"><i></i></span>
 	<br/>
