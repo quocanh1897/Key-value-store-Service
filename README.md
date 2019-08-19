@@ -28,7 +28,9 @@
 
 ## Hiện thực B-Tree
 
-> Tham khảo pseudocode: [Introduction to Algorithms](http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm), code: [GeeksforGeeks](https://www.geeksforgeeks.org/b-tree-set-3delete/)
+> - Pseudocode: [Introduction to Algorithms](http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap19.htm), code: [GeeksforGeeks](https://www.geeksforgeeks.org/b-tree-set-3delete/)
+>
+> - My [BTree-Implement](https://github.com/quocanh1897/BTree-Implement)
 
 - Cấu trúc của BTree được tổ chức như sau:
 
