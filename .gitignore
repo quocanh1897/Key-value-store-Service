@@ -1,0 +1,6 @@
+./B-Tree-implement/build/
+*.dat
+*.txt
+./Key-Value-Store-Service/.vscode/
+./.vscode/
+./B-Tree-implement/.vscode/
